@@ -15,4 +15,5 @@ Here are some of the key insights that the Superstore Sales Dashboard provides:
 - **Seasonal Trends:** Identify seasonal trends and fluctuations in sales, allowing us to plan promotions and inventory accordingly.
 - **Profitability Analysis:** Dive deep into profitability by product, region or customer segment to maximize our bottom line.
 
-  **The Superstore Sales Dashboard in PowerBi in not justa static report but an interactive tool that enables users to drill down into the data,filter and explore insights in real-time.**
+
+**The Superstore Sales Dashboard in PowerBi in not justa static report but an interactive tool that enables users to drill down into the data,filter and explore insights in real-time.**
