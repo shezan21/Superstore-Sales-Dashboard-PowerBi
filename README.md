@@ -8,5 +8,4 @@ To create this dashboard, I utilized a rich dataset containing historical sales 
 
 **Project Insights:**
 Here are some of the key insights that the Superstore Sales Dashboard provides:
-
--- Salws --
+- **Sales Performance:**
