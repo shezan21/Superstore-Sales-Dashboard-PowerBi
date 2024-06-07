@@ -8,8 +8,8 @@ To create this dashboard, I utilized a rich dataset containing historical sales 
 
 **Project Insights:**
 Here are some of the key insights that the Superstore Sales Dashboard provides:
-- **Sales Performance:** GEt a real-time overview of our sales performance, including total revenue,profit maargin and trends over time.
-- **Product Analysis:** ANalyze our product catalog to identify top-selling item, low-performing products and opportunities for improvement.
+- **Sales Performance:** Get a real-time overview of our sales performance, including total revenue, profit margin and trends over time.
+- **Product Analysis:** Analyze our product catalog to identify top-selling item, low-performing products and opportunities for improvement.
 - **Customer Segmentation:** Segment our customer based on various criteria like geography,industry or purchase history to talior marketing and sales strategies.
 - **Geographic Analysis:** Explore sales data geographically with interactive maps to identify high-potential regions and areas for expansion.
 - **Seasonal Trends:** Identify seasonal trends and fluctuations in sales, allowing us to plan promotions and inventory accordingly.
